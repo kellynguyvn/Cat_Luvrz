@@ -1,1 +1,2 @@
-# Cat_Luvrz
+# Cat-Luvrz
+Final Project for CS 174
